@@ -3,10 +3,8 @@ body {
     background-color: powderblue;
 }
 h1 {
-    font-family: "Source Sans Pro", sans-serif;
-    font-weight: normal;
+    font-family: 'Brush Script MT', cursive;
 }
 p {
-    font-family: "Source Sans Pro", sans-serif;
-    font-weight: normal;
+	font-family: 'Georgia', sans-serif;
 }
